@@ -1,1 +1,1 @@
-# Azure-PANW-CommonFW-Management
+# azuremanagement
